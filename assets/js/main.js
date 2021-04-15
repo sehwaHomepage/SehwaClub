@@ -78,6 +78,7 @@
 
     typed.typed({
       strings: strings,
+      cursorChar: '_',
       typeSpeed: 100,
       loop: false
     });
